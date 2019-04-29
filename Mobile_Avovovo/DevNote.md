@@ -7,7 +7,7 @@
 
 
 
-## Game Introduction  
+## One Page Game Design Document
 ![Preview](AvovovoGDD.jpg)  
 
 ### Development Note 
