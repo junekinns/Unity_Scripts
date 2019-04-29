@@ -1,6 +1,9 @@
 # Avovovo  
-##Preview
+
+
+## Preview  
 ![Preview](Avovovo.gif)
 
-##Game Introduction
+
+## Game Introduction  
 ![Preview](AvovovoGDD.jpg)  
