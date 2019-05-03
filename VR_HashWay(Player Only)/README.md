@@ -9,14 +9,14 @@
 
 
 ## Prototype  
-<iframe width="425" height="239" src="https://www.youtube.com/embed/vxRCApVy5Bg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="425" height="239" src="https://www.youtube.com/embed/vxRCApVy5Bg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Alpha version    
-<iframe width="425" height="239" src="https://www.youtube.com/embed/9q9vBKY4MCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="425" height="239" src="https://www.youtube.com/embed/9q9vBKY4MCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Beta 1.0    
-<iframe width="425" height="239" src="https://www.youtube.com/embed/rc5oJxq9dXQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="425" height="239" src="https://www.youtube.com/embed/rc5oJxq9dXQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Beta 2.0  
