@@ -7,8 +7,8 @@
 
 
 
-## One Page Game Design Document
-![Preview](AvovovoGDD.jpg)  
+## One Page Game Design Document  
+<img src="AvovovoGDD.jpg" width="800">
 
 ### Development Note 
 * 6180 the moon 게임과 완전히 동일한 시스템  
